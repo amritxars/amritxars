@@ -23,7 +23,7 @@ amrit = {
     "education": "B.Tech CSE @ KIIT (2023-2027)",
     "focus":     ["Machine Learning", "NLP", "Full Stack Dev", "RAG Pipelines"],
     "currently": "Building AI-powered web apps with LLMs & Streamlit",
-    "fun_fact":  "I recommended Bhagavad Gita verses using ML"
+    "fun_fact": "My code compiles faster when the playlist is right 🎵"
 }
 ```
 
@@ -134,7 +134,4 @@ amrit = {
 <div align="center">
 
 ### 💬 *"I turn raw data into decisions and ideas into deployed products."*
-
-![Visitor Count](https://komainu8.github.io/github-profile-views-counter/github_profile_views_counter/api/count/incr/badge.svg?username=amritxars)
-
 </div>
